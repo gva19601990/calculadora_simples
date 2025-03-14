@@ -8,7 +8,7 @@ function insert(num){
 }
 
 function clean(){
-    document.getElementById('resultado').innerHTML = "0"; //  nulo
+    document.getElementById('resultado').innerHTML = ""; //  nulo
 }
 
 function back(){
